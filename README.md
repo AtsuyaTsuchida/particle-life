@@ -2,6 +2,11 @@
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
 # Particle Life Simulation
+
+> **Fork note (AtsuyaTsuchida):** local usable copy. Run `./run.sh` (serves on port 8221),
+> then open http://localhost:8221/particle_life.html (2D) or `/particle_life_3d.html` (3D).
+> Python version: `pip install pygame && python3 particle_life.py`.
+
 A simple program to simulate primitive Artificial Life using simple rules of attraction or repulsion among atom-like particles, producing complex self-organzing life-like patterns. Excluding the GUI elements, the code is less than a page. The video tutorial and walkthrough are available below.
 
 Learn More Here (YouTube video tutorial):
